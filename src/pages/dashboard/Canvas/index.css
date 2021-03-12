@@ -1,0 +1,19 @@
+.snapTitle {
+  position: absolute;
+  top: 43px;
+  left: 140px;
+  padding: 0;
+  margin: 40px;
+  font-size: 5em;
+  line-height: 0.7em;
+  letter-spacing: -6px;
+  color: #272730;
+}
+
+.picker {
+  position: absolute !important;
+  top: 218px;
+  left: 378px;
+  width: 208px !important;
+  height: 90px !important;
+}
